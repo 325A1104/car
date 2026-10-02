@@ -1,0 +1,8 @@
+{
+  "name": "Logical Dash",
+  "description": "Race through a 3-question obstacle course, choosing the correct path to survive and reach the finish line.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
